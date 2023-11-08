@@ -1,12 +1,19 @@
 first go to https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+
 donwload the driver for your OS
+
 extract it in the root of the app
+
 change edge_driver_path to the name of the driver folder
+
 for extension_path
+
 for ubuntu I found it here "/home/karim/.config/microsoft-edge/Default/Extensions/ndcileolkflehcjpmjnfbnaibdcgglog/5.13.0_0"
+
 it is Ad block find your path.
 
 Then
+
 Go to https://animerco.org/
 pick anime
 pick season
