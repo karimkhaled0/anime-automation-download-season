@@ -1,3 +1,5 @@
+I'm using Microsoft Edge
+
 first go to https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
 
 donwload the driver for your OS
