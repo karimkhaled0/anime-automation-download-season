@@ -1,4 +1,4 @@
-I'm using Microsoft Edge
+Browser: Microsoft edge | OS: Ubuntu 22.04.3 LTS
 
 first go to https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
 
